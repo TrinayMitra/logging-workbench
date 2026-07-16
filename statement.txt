@@ -1,2 +1,5 @@
 Deposited: 1000.0
+Withdrew: 23.0
+Deposited: 23.0
 Withdrew: 50.0
+Deposited: 1000.0
