@@ -1,0 +1,8 @@
+2026-07-16 14:58:19,548 | INFO | Deposited: 1000.0 And New Balance is : 1000.0
+2026-07-16 14:58:40,441 | INFO | whithdrew: 50.0 And New Balance is : 950.0
+2026-07-16 14:58:48,881 | INFO | Transaction Statement:
+2026-07-16 14:58:48,883 | INFO | Deposited: 1000.0
+2026-07-16 14:58:48,883 | INFO | Withdrew: 50.0
+2026-07-16 15:00:14,761 | INFO | Current balance is: 0
+2026-07-16 15:09:54,588 | INFO | deposit | Deposited: 10000.0 And New Balance is : 10000.0
+2026-07-16 15:10:04,753 | INFO | main | Exiting the ATM.

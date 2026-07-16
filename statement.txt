@@ -1,0 +1,2 @@
+Deposited: 1000.0
+Withdrew: 50.0
