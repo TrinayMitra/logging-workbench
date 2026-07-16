@@ -1,6 +1,4 @@
 import logging
-
-# logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 
@@ -24,7 +22,7 @@ class ATM:
     
     def deposit(self,amount):
         if amount > 0:
-            self.balance = amount
+            self.balance += amount
             self.transactions.append(f"Deposited: {amount}")
             logger.info(f"Deposited: {amount} And New Balance is : {self.balance}")
         else:
